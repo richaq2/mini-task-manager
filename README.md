@@ -1,4 +1,4 @@
-# Gloify Mini-Task Manager Assignment (ReactJS)
+# Mini-Task Manager Assignment (ReactJS)
 
 ## Features Implemented
 * Create task.
