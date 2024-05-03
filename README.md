@@ -1,6 +1,6 @@
-# Mini-Task Manager Assignment (ReactJS)
+# Mini-Task Manager (ReactJS)
 
-## Features Implemented
+## Features
 * Create task.
 * Assign a task to a user.
 * Update task.
